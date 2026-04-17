@@ -33,3 +33,15 @@ Python, Pandas, NumPy, Scikit-learn
 👨‍💻 Author
 
 Farrukhbek Rakhmonov
+📂 Project Files
+
+**Pre_processing_THPP.ipynb**
+Contains full data preprocessing steps including cleaning, feature engineering, and building the ML pipeline.
+
+**Tashkent_house_price_prediction.ipynb**
+Final notebook with model training, evaluation, and prediction results.
+
+This structure separates the workflow into:
+
+* data preparation
+* final modeling and results
