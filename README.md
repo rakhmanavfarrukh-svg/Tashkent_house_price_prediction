@@ -23,9 +23,9 @@ Models
 
 Results
 * Linear Regression
-* MAE ≈ 23,000
+* MAE ≈ 23,000$
 * Random Forest
-* MAE ≈ 5,000
+* MAE ≈ 5,000$
 Tech
 
 Python, Pandas, NumPy, Scikit-learn
