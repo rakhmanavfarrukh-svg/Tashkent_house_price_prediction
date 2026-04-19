@@ -56,8 +56,6 @@ The following models were tested:
 ## Farrukhbek Rakhmonov
 Machine Learning Enthusiast | Data Science Learner
 
-## Project Structure
-
 ---
 
 ## How to Run This Project
